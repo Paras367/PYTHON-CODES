@@ -32,4 +32,4 @@ You can run them directly using **IDLE** (no extra installation needed).
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/PYTHON-CODES.git
+   git clone https://github.com/Paras367/PYTHON-CODES.git
