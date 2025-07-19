@@ -684,3 +684,8 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = WorldLanguagesMap(root)
     root.mainloop()
+
+# ©SOFTWARELABS
+# BY - PARAS DHIMAN (Co-Founder)
+# CONTACT:
+#     softwarelabschd@gmail.com
