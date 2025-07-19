@@ -207,3 +207,9 @@ tk.Button(root, text="Show Atomic Mass Trend", font=("Arial", 12),
           command=show_trend, bg="lightblue").pack(pady=10)
 
 root.mainloop()
+
+
+# ©SOFTWARELABS
+# BY - PARAS DHIMAN (Co-Founder)
+# CONTACT:
+#     softwarelabschd@gmail.com
