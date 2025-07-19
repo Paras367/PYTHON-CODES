@@ -497,3 +497,8 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Error starting game: {e}")
         print("Make sure you're running this in Python IDLE!")
+
+# ©SOFTWARELABS
+# BY - PARAS DHIMAN (Co-Founder)
+# CONTACT:
+#     softwarelabschd@gmail.com
