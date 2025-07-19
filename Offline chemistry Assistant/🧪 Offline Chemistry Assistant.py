@@ -61,3 +61,9 @@ result_box = tk.Text(root, font=("Courier", 12), wrap=tk.WORD)
 result_box.pack(padx=10, pady=10, fill=tk.BOTH, expand=True)
 
 root.mainloop()
+
+
+# ©SOFTWARELABS
+# BY - PARAS DHIMAN (Co-Founder)
+# CONTACT:
+#     softwarelabschd@gmail.com
